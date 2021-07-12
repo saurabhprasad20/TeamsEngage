@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./webrtc/libs/autobanh.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/webrtc/libs/autobanh.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
